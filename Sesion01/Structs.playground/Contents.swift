@@ -31,6 +31,7 @@ var obj1 = Persona(nombre: "KeNyI", apellido: "Rodriguez", direccion: "Calle los
 print(obj1.iniciales)
 obj1.direccion = "fgfgfgfg"
 
-var obj2 = Persona(nombre: "Javier", apellido: "Siancas")
 
+
+let obj2 = Persona(nombre: "Javier", apellido: "Siancas")
 
