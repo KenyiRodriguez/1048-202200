@@ -1,0 +1,8 @@
+target 'Dependencias' do
+  use_frameworks!
+
+  pod 'GoogleMaps'
+  pod 'Alamofire'
+  pod 'Firebase' 
+
+end
